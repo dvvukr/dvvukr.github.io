@@ -980,6 +980,11 @@ figure.effect-bubba:hover p {
 .padding-img-foundation{
 	    padding-top: 20px;
 }
-
+span.span-img-js {
+    display: block;
+    color: #5e635e;
+    font-weight: bold;
+    font-size: 14px;
+}
 
 /*-------END MY STYLE----------*/
